@@ -1,15 +1,5 @@
 package Generic;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- *  泛型是一个在java当中 比较难的语法
- *  了解泛型就OK了 把我上课代码保存着
- *  以后你可以当中字典进行查询
- * User: GaoBo
- * Date: 2021-01-21
- * Time: 9:29
- */
 
 /**
  * 泛型：只存在于编译时期  只是编译时期
